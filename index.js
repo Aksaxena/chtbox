@@ -30,7 +30,7 @@ app.use(bodyParser.urlencoded({
 //database connection with mysql
 
 var connection = mysql.createConnection({
-    host: 'vefinder.puzzlecoder.com',
+    host: 'puzzlecoder.com',
     user: 'wil_user',
     //password: 'notzft_$16@xyz',
     password: 'x-8}OpOz6m1T',
